@@ -1,0 +1,37 @@
+Version v0.1.0:
+    Create database structure
+    ☐ Create a docker compose file and its database image configuration. @2h
+    ☐ Create a .env file with database configuration. @0.5h
+    ☐ Create a .gitignore file. @0.5h
+    ☐ Create a auctoritas.todo file. @2h
+    ☐ Create a README.md file. @0.5h
+    ☐ Create a config.yaml file. @0.5h
+    ☐ Create a auctoritas.http file. @0.5h
+    ☐ Generate a go.mod file. @0.5h 
+    ☐ Create a database structure. @2h
+
+    Implement pre-registration feature.
+    ☐ Create entry verification entity.
+    ☐ Create user entity.
+    ☐ Implement user repository.
+    ☐ Implement user use case.
+    ☐ Implement pre-registration handler.
+
+    Implement registration feature.
+    ☐ Implement function that updates user verification.
+    ☐ Implement user verification use case.
+    ☐ Implement user verification handler.
+
+    Implement login feature.
+    ☐ Implement function to verify user in database.
+    ☐ Implement use case for creating user jwt.
+    ☐ Implement user login handler.
+
+    Feture para ativar o usuário.
+    ☐ Atualizar tabela de verificação para true (usuário verificado). 
+    ☐ Caso seja válido, ativar o usuário. 
+    ☐ Caso não seja regerar um novo OTP code e enviar para o e-mail do usuário. 
+    ☐ Verificar se o OTP code é válido. 
+    ☐ Capturar OTP code e e-mail fornecido pelo usuário. 
+    ☐ Ativar usuário por OTP code, enviado para o email do usuário. 
+  
