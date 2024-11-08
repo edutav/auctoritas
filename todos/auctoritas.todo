@@ -1,14 +1,14 @@
 Version v0.1.0:
     Create database structure
-    ☐ Create a docker compose file and its database image configuration. @2h
-    ☐ Create a .env file with database configuration. @0.5h
-    ☐ Create a .gitignore file. @0.5h
-    ☐ Create a auctoritas.todo file. @2h
-    ☐ Create a README.md file. @0.5h
-    ☐ Create a config.yaml file. @0.5h
-    ☐ Create a auctoritas.http file. @0.5h
-    ☐ Generate a go.mod file. @0.5h 
-    ☐ Create a database structure. @2h
+    ✔ Create a docker compose file and its database image configuration. @2h @started(24-11-08 10:43) @done(24-11-08 11:31) @lasted(48m55s)
+    ✔ Create a .env file with database configuration. @0.5h @started(24-11-08 11:32) @done(24-11-08 11:49) @lasted(17m33s)
+    ✔ Create a .gitignore file. @0.5h @started(24-11-08 11:49) @done(24-11-08 12:28) @lasted(39m10s)
+    ✔ Create a auctoritas.todo file. @2h @started(24-11-08 12:28) @done(24-11-08 14:35) @lasted(2h7m57s)
+    ✔ Create a README.md file. @0.5h @started(24-11-08 14:36) @done(24-11-08 16:12) @lasted(1h36m7s)
+    ✔ Create a config.yaml file. @0.5h @started(24-11-08 16:12) @done(24-11-08 16:34) @lasted(22m9s)
+    ✔ Create a auctoritas.http file. @0.5h @started(24-11-08 16:34) @done(24-11-08 16:46) @lasted(12m47s)
+    ✔ Generate a go.mod file. @0.5h @started(24-11-08 16:46) @done(24-11-08 16:49) @lasted(3m50s)
+    ✔ Create a database structure. @2h @started(24-11-08 16:49) @done(24-11-08 17:04) @lasted(15m59s)
 
     Implement pre-registration feature.
     ☐ Create entry verification entity.
